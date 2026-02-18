@@ -1,151 +1,153 @@
-# 🛍 E-commerce & Retail Analytics Projects
+# 🛍️ E-commerce & Retail Analytics Portfolio
 
-This section contains data projects focused on **online retail, customer behaviour, revenue optimisation, and product performance**.
+> A collection of end-to-end data projects spanning **analytics**, **data science**, and **data engineering** — built around real-world online retail, customer behaviour, and product performance use cases.
 
-Projects are organised by **data role** (Data Analyst, Data Scientist, Data Engineer) and further grouped by **business function** to clearly demonstrate real-world business impact.
+---
+
+## 🗂️ Projects Overview
+
+| Domain | 📊 Data Analyst | 🧠 Data Scientist | 🛠️ Data Engineer |
+|--------|----------------|------------------|-----------------|
+| 💰 **Finance** | [Superstore Analytics Dashboard](#-superstore-analytics-dashboard) | [Dynamic Pricing Optimisation Model](#-dynamic-pricing-optimisation-model) *(soon)* | [Automated Revenue Data Pipeline](#️-data-engineer-projects) *(soon)* |
+| 🏦 **Sales** | [Shopify Sales & Customer Funnel Analytics](#-shopify-sales--customer-funnel-analytics-dashboard) | [Demand Forecasting for Inventory Planning](#-demand-forecasting-for-inventory-planning) *(soon)* | [Real-Time Sales Monitoring Pipeline](#️-data-engineer-projects) *(soon)* |
+| 📣 **Marketing** | [Ecommerce Marketing Performance Dashboard](#-ecommerce-marketing-performance-dashboard) | [Customer Segmentation & Lifetime Value Prediction](#-customer-segmentation--lifetime-value-prediction) *(soon)* | [Marketing Attribution Data Pipeline](#️-data-engineer-projects) *(soon)* |
+| 📦 **Product** | [Amazon Products Sales Analysis Dashboard](#-amazon-products-sales-analysis-dashboard) | [Recommendation System for E-commerce Products](#-recommendation-system-for-e-commerce-products) *(soon)* | [Event-Based Product Analytics Pipeline](#️-data-engineer-projects) *(soon)* |
 
 ---
 
 ## 📊 Data Analyst Projects
-Focus: dashboards, KPI tracking, descriptive analytics, and business insights
-
-### 💰 Finance Analytics
-Projects focused on revenue, profit, and financial performance analysis.
-
-### 📌 Superstore Analytics Dashboard
-- Analysed total sales, profit, and returned orders
-- Performed year-over-year performance comparison
-- Identified high- and low-margin product categories
-- Analysed profitability by state and customer segment
-
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Superstore-Analytics-Dashboard
 
 ---
 
-### 📈 Sales Analytics
-Projects focused on revenue performance, product sales, and commercial optimisation.
+### 💰 Superstore Analytics Dashboard
 
-### 📌 Shopify Sales & Customer Funnel Analytics Dashboard
-- Tracked net sales, average order value, and quantity sold
-- Analysed single vs repeat customers
-- Measured customer lifetime value (LTV) and repeat rate
-- Evaluated revenue by payment gateway and region
+**What it does:** Diagnoses profit performance across products, regions, and segments to guide commercial strategy.
 
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Shopify-Sales-Customer-Funnel-Analytics-Dashboard
+| | |
+|---|---|
+| 📌 **Key Analysis** | Total sales, profit, and returned orders with YoY comparison |
+| 🔍 **Insights** | High- and low-margin product categories; profitability by state and customer segment |
+| 👥 **Audience** | Finance & commercial strategy teams |
 
----
-
-### 📣 Marketing Analytics
-Projects focused on campaign effectiveness, lead sources, and revenue attribution.
-
-### 📌 Ecommerce Marketing Performance Dashboard
-- Analysed revenue, cost, and profit performance
-- Measured conversion rate and views
-- Compared marketing campaigns by revenue contribution
-- Evaluated lead source and sales channel effectiveness
-- Performed regional marketing performance analysis
-
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Ecommerce-Marketing-Performance-Dashboard
+[![View Project](https://img.shields.io/badge/View%20Project-Superstore%20Analytics-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Superstore-Analytics-Dashboard)
 
 ---
 
-### 📦 Product Analytics
-Projects focused on campaign effectiveness, lead sources, and revenue attribution.
+### 🏦 Shopify Sales & Customer Funnel Analytics Dashboard
 
-### 📌 Amazon Products Sales Analysis Dashboard
-- Analysed YTD and QTD sales performance
-- Identified top-performing product categories
-- Compared sales trends by month and week
-- Evaluated product-level revenue contribution
+**What it does:** Tracks the full customer journey from first purchase to repeat revenue and lifetime value.
 
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Amazon-Products-Sales-Analysis-Dashboard
+| | |
+|---|---|
+| 📌 **Key Analysis** | Net sales, average order value, quantity sold, and repeat rate |
+| 🔍 **Insights** | Single vs repeat customer behaviour, LTV, revenue by payment gateway and region |
+| 👥 **Audience** | E-commerce & growth teams |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Shopify%20Sales%20%26%20Funnel-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Shopify-Sales-Customer-Funnel-Analytics-Dashboard)
+
+---
+
+### 📣 Ecommerce Marketing Performance Dashboard
+
+**What it does:** Attributes revenue across campaigns, channels, and regions to optimise marketing spend.
+
+| | |
+|---|---|
+| 📌 **Key Analysis** | Revenue, cost, profit, conversion rate, and views |
+| 🔍 **Insights** | Campaign revenue contribution, lead source and sales channel effectiveness, regional performance |
+| 👥 **Audience** | Marketing & performance teams |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Ecommerce%20Marketing%20Performance-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Ecommerce-Marketing-Performance-Dashboard)
+
+---
+
+### 📦 Amazon Products Sales Analysis Dashboard
+
+**What it does:** Surfaces top-performing products and sales trends to guide inventory and category decisions.
+
+| | |
+|---|---|
+| 📌 **Key Analysis** | YTD and QTD sales performance by category and product |
+| 🔍 **Insights** | Monthly and weekly sales trends, product-level revenue contribution |
+| 👥 **Audience** | Product & category management teams |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Amazon%20Products%20Sales-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Amazon-Products-Sales-Analysis-Dashboard)
 
 ---
 
 ## 🧠 Data Scientist Projects
-Focus: predictive modelling, machine learning, experimentation
 
-### 💰 Finance & Pricing
-#### 🧮 Dynamic Pricing Optimisation Model
-- Built price elasticity models
-- Simulated revenue under alternative pricing strategies
-
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/dynamic-pricing-model
+> *(Under Construction — check back for updates)*
 
 ---
 
-### 📈 Sales Forecasting
-#### 📦 Demand Forecasting for Inventory Planning
-- Predicted weekly demand using time-series models
-- Reduced stock-out and overstock risk
+### 🧮 Dynamic Pricing Optimisation Model
 
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/demand-forecasting
+**What it does:** Simulates revenue outcomes under alternative pricing strategies using price elasticity models.
 
----
-
-### 📣 Marketing Science
-#### 🎯 Customer Segmentation & Lifetime Value Prediction
-- Clustered customers by behaviour and value
-- Predicted CLV to support targeted marketing
-
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/customer-segmentation-clv
+| | |
+|---|---|
+| 📌 **Key Analysis** | Price elasticity modelling |
+| 🔍 **Insights** | Revenue impact of alternative pricing strategies |
+| 👥 **Audience** | Pricing & finance teams |
 
 ---
 
-### 📦 Product Science
-#### 🧠 Recommendation System for E-commerce Products
-- Built collaborative filtering recommendations
-- Evaluated impact on engagement metrics
+### 📦 Demand Forecasting for Inventory Planning
 
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/product-recommendation-system
+**What it does:** Predicts weekly product demand to reduce stock-out and overstock risk.
 
----
-
-## 🛠 Data Engineer Projects
-Focus: data pipelines, infrastructure, scalability, automation
-
-### 💰 Finance Data Engineering
-#### 🏗 Automated Revenue Data Pipeline
-- Built ETL pipeline for transaction data
-- Delivered clean, analytics-ready tables
-
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/revenue-data-pipeline
+| | |
+|---|---|
+| 📌 **Key Analysis** | Weekly demand forecasting using time-series models |
+| 🔍 **Insights** | Reduced stock-out and overstock risk |
+| 👥 **Audience** | Supply chain & inventory planning teams |
 
 ---
 
-### 📈 Sales Data Engineering
-#### 🔄 Real-Time Sales Monitoring Pipeline
-- Streamed sales events into analytics warehouse
-- Enabled near real-time reporting
+### 🎯 Customer Segmentation & Lifetime Value Prediction
 
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/realtime-sales-pipeline
+**What it does:** Clusters customers by behaviour and value to support targeted marketing and retention.
 
----
-
-### 📣 Marketing Data Engineering
-#### 📡 Marketing Attribution Data Pipeline
-- Integrated ad platform and web analytics data
-- Enabled multi-touch attribution analysis
-
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/marketing-attribution-pipeline
+| | |
+|---|---|
+| 📌 **Key Analysis** | Customer clustering by behaviour and value |
+| 🔍 **Insights** | CLV prediction for targeted marketing prioritisation |
+| 👥 **Audience** | CRM & marketing science teams |
 
 ---
 
-### 📦 Product Data Engineering
-#### 🧱 Event-Based Product Analytics Pipeline
-- Designed event schema for user behaviour tracking
-- Enabled scalable product analytics
+### 🧠 Recommendation System for E-commerce Products
 
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/product-event-pipeline
+**What it does:** Delivers personalised product recommendations using collaborative filtering to drive engagement.
+
+| | |
+|---|---|
+| 📌 **Key Analysis** | Collaborative filtering for product recommendations |
+| 🔍 **Insights** | Impact on engagement metrics and conversion |
+| 👥 **Audience** | Product & personalisation teams |
+
+---
+
+## 🛠️ Data Engineer Projects
+
+> *(Under Construction — check back for updates)*
+
+| Project | Domain | Description |
+|---------|--------|-------------|
+| 🏗️ **Automated Revenue Data Pipeline** | 💰 Finance | ETL pipeline for transaction data delivering clean, analytics-ready financial tables |
+| 🔄 **Real-Time Sales Monitoring Pipeline** | 🏦 Sales | Streamed sales events into analytics warehouse for near real-time reporting |
+| 📡 **Marketing Attribution Data Pipeline** | 📣 Marketing | Integrated ad platform and web analytics data for multi-touch attribution analysis |
+| 🧱 **Event-Based Product Analytics Pipeline** | 📦 Product | Event schema design for user behaviour tracking enabling scalable product analytics |
+
+---
+
+## 🧰 Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python, SQL |
+| **Visualisation** | Power BI, Tableau |
+| **ML & Stats** | scikit-learn, pandas, NumPy, time-series models |
+| **Retail & E-commerce** | Funnel analytics, CLV modelling, price elasticity, collaborative filtering |
+| **Data Engineering** | ETL pipelines, event schemas, real-time streaming |
