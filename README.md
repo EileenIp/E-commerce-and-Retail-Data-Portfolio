@@ -10,42 +10,59 @@ Projects are organised by **data role** (Data Analyst, Data Scientist, Data Engi
 Focus: dashboards, KPI tracking, descriptive analytics, and business insights
 
 ### 💰 Finance Analytics
-#### 💳 Revenue & Profitability Dashboard
-- Analysed revenue, profit margins, and discount impact
-- Identified high-margin products and loss-leading categories
+Projects focused on revenue, profit, and financial performance analysis.
+
+### 📌 Superstore Analytics Dashboard
+- Analysed total sales, profit, and returned orders
+- Performed year-over-year performance comparison
+- Identified high- and low-margin product categories
+- Analysed profitability by state and customer segment
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/ecommerce-revenue-dashboard
+➡️ https://github.com/EileenIp/Superstore-Analytics-Dashboard
 
 ---
 
 ### 📈 Sales Analytics
-#### 🛒 Sales Funnel & Conversion Analysis
-- Analysed customer drop-off across browsing → checkout
-- Identified bottlenecks impacting conversion rate
+Projects focused on revenue performance, product sales, and commercial optimisation.
+
+### 📌 Shopify Sales & Customer Funnel Analytics Dashboard
+- Tracked net sales, average order value, and quantity sold
+- Analysed single vs repeat customers
+- Measured customer lifetime value (LTV) and repeat rate
+- Evaluated revenue by payment gateway and region
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/ecommerce-sales-funnel
+➡️ https://github.com/EileenIp/Shopify-Sales-Customer-Funnel-Analytics-Dashboard
 
 ---
 
 ### 📣 Marketing Analytics
-#### 📬 Campaign Performance & ROI Analysis
-- Measured ROI of paid and organic campaigns
-- Compared customer acquisition cost across channels
+Projects focused on campaign effectiveness, lead sources, and revenue attribution.
+
+### 📌 Ecommerce Marketing Performance Dashboard
+- Analysed revenue, cost, and profit performance
+- Measured conversion rate and views
+- Compared marketing campaigns by revenue contribution
+- Evaluated lead source and sales channel effectiveness
+- Performed regional marketing performance analysis
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/ecommerce-marketing-roi
+➡️ https://github.com/EileenIp/Ecommerce-Marketing-Performance-Dashboard
 
 ---
 
 ### 📦 Product Analytics
-#### ⭐ Product Performance & Review Analysis
-- Analysed product ratings, reviews, and return rates
-- Identified features correlated with high satisfaction
+Projects focused on campaign effectiveness, lead sources, and revenue attribution.
+
+### 📌 Amazon Products Sales Analysis Dashboard
+- Analysed YTD and QTD sales performance
+- Identified top-performing product categories
+- Compared sales trends by month and week
+- Evaluated product-level revenue contribution
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/product-performance-analysis
+➡️ https://github.com/EileenIp/Amazon-Products-Sales-Analysis-Dashboard
 
 ---
 
