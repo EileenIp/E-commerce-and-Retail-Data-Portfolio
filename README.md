@@ -8,7 +8,7 @@
 
 | Domain | 📊 Data Analyst | 🧠 Data Scientist | 🛠️ Data Engineer |
 |--------|----------------|------------------|-----------------|
-| 💰 **Finance** | [Superstore Analytics Dashboard](#-superstore-analytics-dashboard) | [Dynamic Pricing Optimisation Model](#-dynamic-pricing-optimisation-model) *(soon)* | [Automated Revenue Data Pipeline](#️-data-engineer-projects) *(soon)* |
+| 💰 **Finance** | [Superstore Analytics Dashboard](#-superstore-analytics-dashboard) [Vendor Performance Analytics Dashboard](#-vendor-performance-analytics-dashboard) | [Dynamic Pricing Optimisation Model](#-dynamic-pricing-optimisation-model) *(soon)* | [Automated Revenue Data Pipeline](#️-data-engineer-projects) *(soon)* |
 | 🏦 **Sales** | [Shopify Sales & Customer Funnel Analytics](#-shopify-sales--customer-funnel-analytics-dashboard) | [Demand Forecasting for Inventory Planning](#-demand-forecasting-for-inventory-planning) *(soon)* | [Real-Time Sales Monitoring Pipeline](#️-data-engineer-projects) *(soon)* |
 | 📣 **Marketing** | [Ecommerce Marketing Performance Dashboard](#-ecommerce-marketing-performance-dashboard) | [Customer Segmentation & Lifetime Value Prediction](#-customer-segmentation--lifetime-value-prediction) *(soon)* | [Marketing Attribution Data Pipeline](#️-data-engineer-projects) *(soon)* |
 | 📦 **Product** | [Amazon Products Sales Analysis Dashboard](#-amazon-products-sales-analysis-dashboard) | [Recommendation System for E-commerce Products](#-recommendation-system-for-e-commerce-products) *(soon)* | [Event-Based Product Analytics Pipeline](#️-data-engineer-projects) *(soon)* |
@@ -30,6 +30,20 @@
 | 👥 **Audience** | Finance & commercial strategy teams |
 
 [![View Project](https://img.shields.io/badge/View%20Project-Superstore%20Analytics-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Superstore-Analytics-Dashboard)
+
+---
+
+### 💼 Vendor Performance Analytics Dashboard
+
+**What it does:** Evaluates supplier profitability, sales contribution, and procurement efficiency to optimise commercial performance.
+
+| | |
+|---|---|
+| 📌 **Key Analysis** | Total sales vs purchase, gross profit, profit margin, freight cost impact |
+| 🔍 **Insights** | Top & lowest performing vendors, brand contribution %, unsold capital exposure |
+| 👥 **Audience** | Finance, procurement & supply chain teams |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Vendor%20Performance%20Analytics-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Vendor-Performance-Analytics-Dashboard)
 
 ---
 
